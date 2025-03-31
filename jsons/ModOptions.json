@@ -1,0 +1,7 @@
+{
+  "constants": {
+    "minimalCityDistance": 3,
+    "minimalCityDistanceOnDifferentContinents": 3,
+    "cityWorkRange": 5
+  }
+}
